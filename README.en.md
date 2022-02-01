@@ -1,10 +1,10 @@
 # vportal
 
 #### Description
-vPortal是为Web开发者设计的，可以方便地构建移动应用的管理门户
+Vportal is designed for Web developer to easily build mobile app admin portal.
 
 #### Software Architecture
-Software architecture description
+tdesign-vue-next
 
 #### Installation
 
